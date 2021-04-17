@@ -1,0 +1,39 @@
+body{
+	font-family: 'Ubuntu Mono', monospace;
+}
+#div1{
+	border: solid black 0.5px;
+	width: 850px;
+	height: 600px;
+	margin:  50px 350px;
+	background: #e8effa;
+	color: #043378;
+}
+#div1 > p{
+	margin:  10px 260px;
+	font-size: 20px;
+}
+.p1{
+	font-weight: bold;
+	margin-left: 15px;
+}
+.p2{
+	margin-left: 20px;
+}
+#div2{
+	display: flex;
+	align-items: center;
+}
+#div3{
+	width: 650px;
+	height: 280px;
+}
+#_img{
+	width: 200px;
+	height: 280px;
+}
+#_img > img{
+	width: 160px;
+	height: 160px;
+	margin-top: 20px;
+}
