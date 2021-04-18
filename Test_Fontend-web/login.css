@@ -1,0 +1,90 @@
+body{
+	background-color: #E5E5E5;
+	margin: 55px 270px;
+	font-family: 'Roboto', sans-serif;
+}
+#contaner{
+	display: flex;
+	width: 1000px;
+	height: 600px;
+	background-color: white;
+		
+}
+#img_{
+	width: 500px;
+	height: 600px;
+	background-image: url('img_1.jpg');
+}
+#div0{
+	display: flex;
+	flex-direction: column;
+}
+#login{
+	width: 500px;
+	height: 600px;
+	display: flex;
+	justify-content: center ;
+	align-items: center;
+}
+.p2{
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: -10px;
+}
+#div1{
+	width: 300px;
+	height: 400px;	
+}
+.input1{
+	width: 290px;
+	height: 20px;
+}
+#div2{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.p3{
+	color: blue;
+}
+#div3{
+	width: 300px;
+	height: 35px;	
+	background-color: green;
+	color: white;
+	border-radius: 5px;
+	display: flex;
+	justify-content: center;
+	align-items: center;	
+}
+#div4{
+	width: 300px;
+	height: 35px;
+	background-color: black;
+	color: white;
+	border-radius: 5px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 18px;	
+}
+.img_2{
+	width: 20px;
+	height: 20px;
+}
+.img_2 > img{
+	width: 100%;
+	height: 100%;
+}
+.p4{
+	margin-left: 10px;
+}
+.p5{
+	color: blue;
+	margin-left: 5px;
+}
+#div5{
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+}
