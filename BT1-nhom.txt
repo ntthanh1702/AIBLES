@@ -1,0 +1,10 @@
+*TỔNG HỢP KIẾN THỨC*
+1. Tác dụng của Git branch: Tận dụng cách làm việc song song, tạo không gian làm việc cho từng thành viên
+2. Các câu lệnh cơ bản:
+-git branch <tên branch>: tạo nhánh mới
+-git checkout <tên branch>: chuyển nhánh
+-git branch -r: liệt kê branch trên git server
+-git branch -a: liệt kê toàn bộ branch
+-git branch: liệt kê branch ở local
++Gộp kết quả công việc và hỗ trợ phân quyền cho các thành viên trong team: dùng Pull request
++Đồng bộ công việc giữa các thành viên : Git pul, merge, fetch
