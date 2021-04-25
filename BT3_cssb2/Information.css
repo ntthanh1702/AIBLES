@@ -1,0 +1,40 @@
+body{
+	font-family: 'Dancing Script', cursive;
+}
+#container{
+	border: solid black 0.5px;
+	width: 850px;
+	height: 650px;
+	margin:  50px 350px;
+	background: #f5daf1;
+	color: #631958;
+}
+#container > p{
+	margin:  10px 260px;
+	font-size: 20px;
+}
+.information_1{
+	font-weight: bold;
+	margin-left: 15px;
+}
+.information_2{
+	margin-left: 23px;
+	font-size: 17px;
+}
+#Thong_tin_ca_nhan{
+	display: flex;
+	align-items: center;
+}
+#thong_tin{
+	width: 650px;
+	height: 300px;
+}
+#_img{
+	width: 200px;
+	height: 280px;
+}
+#_img > img{
+	width: 160px;
+	height: 160px;
+	margin-top: 20px;
+}
