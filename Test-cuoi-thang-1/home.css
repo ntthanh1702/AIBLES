@@ -1,0 +1,224 @@
+body{
+	background-color: grey;
+	font-family: 'Heebo', sans-serif;
+}
+.container{
+	width :1152px;
+	height :2041px;
+	background-color: white;
+	margin: 200px 200px;
+}
+
+.header{
+	width: 100%;
+	height: 80px;
+	display: flex;
+	align-items: center;
+}
+.rect_w-b-c{
+	width: 250px;
+	height: 43px;
+	margin-left: 856px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.rect_work {
+	font-size: 20px;
+	font-weight: bolder;
+}
+.introduction{
+	width: 100%;
+	height: 515px;
+	display: flex;
+}
+.information{
+	width: 760px;
+	height: 500px;
+	flex-direction: row;
+}
+.inf_name{
+	width: 506px;
+	height: 130px;
+	margin-left: 168px;
+	margin-top: 120px;
+	font-weight: 700;
+	font-size: 50px;
+}
+.inf_detail{
+	width: 497px;
+	height: 66px;
+	margin-left: 168px;
+	margin-top: 40px;
+	font-size: 16px;
+}
+.btm_dow{
+	width: 208px;
+	height: 47px;
+	margin-left: 168px;
+	margin-top: 38px;
+	background-color: #FF6464;
+	color: #FFFFFF;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 20px;
+}
+._picture{
+	display: flex;
+	align-items: center;
+}
+._picture > img{
+	width: 243px;
+	height: 243px;
+}
+.recent_post{
+	width: 100%;
+	height: 396px;
+	background-color: #EDF7FA;
+	flex-direction: row;
+}
+.space{
+	width: 100%;
+	height: 60px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+._recent{
+	width: 130px;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: 168px;
+	font-size: 22px;
+}
+._view{
+	width: 100px;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-right: 148px;
+	color: #00A8CC;
+	font-weight: bold;
+}
+.space_writer{
+	width: 100%;
+	height: 336px;
+	display: flex;
+	justify-content: space-between;
+}
+._making{
+	width: 408px;
+	height: 295px;
+	margin-left: 168px;
+	background-color: white;
+}
+.title > p{
+	font-size: 26px;
+	font-weight: bold;
+	margin:  23px;
+}
+.time_writer{
+	width: 250px;
+	height: 34px;
+	display: flex;
+	justify-content: space-between;
+	margin-left: 23px;
+}
+.content{
+	margin:  0 23px;
+	width: 368px;
+	height: 117px;
+}
+._creating{
+	width: 410px;
+	height: 295px;
+	background-color: white;
+	margin-right: 148px;
+}
+.posts{
+	width: 100%;
+	height: 868px;
+	background-color: white;
+	flex-direction: row;
+}
+.featured{
+	width: 152px;
+	height: 90px;
+	margin-left: 168px;
+	display: flex;
+	align-items: center;
+	font-size: 22px;
+}
+.designing{
+	width: 836px;
+	height: 200px;
+	border-bottom: solid #E0E0E0 1px;
+	margin-left: 168px;
+	margin-right: 148px;
+	display: flex;
+}
+.vibrant, ._36days{
+	width: 836px;
+	height: 230px;
+	border-bottom: solid #E0E0E0 1px;
+	margin-left: 168px;
+	margin-right: 148px;
+	display: flex;
+	align-items: center;
+
+}
+._img > img{
+	width: 246px;
+	height: 180px;
+}
+._word{
+	margin-left: 20px;
+}
+.title_post > p {
+	font-size: 30px;
+	font-weight: bold;
+	margin:  10px 0;
+}
+.year-dashboard, .year-illustration, .year-typography{
+	width: 170px;
+	display: flex;
+	justify-content: space-between;
+}
+.year{
+	width: 60px;
+	height: 25px;
+	font-size: 18px;
+	font-weight: bold;
+	background: black;
+	color: white;
+	border-radius: 20px;
+	text-align: center;
+}
+.short-content{
+	width: 100%;
+	height: 120px;
+	display: flex;
+	align-items: center;
+}
+.footer{
+	width: 100%;
+	height: 182px;
+}
+.icon{
+	width: 260px;
+	height: 90px;
+	display: flex;
+	align-items: center;
+	margin-left: 460px;
+}
+.icon > div{
+	margin-right: 35px;
+}
+.copyright{
+	margin-left: 455px;
+	font-weight: 400;
+}
